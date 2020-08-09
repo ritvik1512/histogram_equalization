@@ -125,6 +125,5 @@ dmypy.json
 .pyre/
 
 # files
-.pdf
-.pages
-.png
+*.pdf
+*.pages
